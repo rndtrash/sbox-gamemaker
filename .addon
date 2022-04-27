@@ -1,0 +1,20 @@
+{
+  "Title": "Game Maker Thingie",
+  "Type": "game",
+  "Org": "tesa",
+  "Ident": "gamemaker",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": true,
+  "CodePath": "/code/",
+  "RootNamespace": "GM",
+  "Metadata": {
+    "MapList": [],
+    "GameNetworkType": 1,
+    "MinPlayers": 1,
+    "MaxPlayers": 1,
+    "MapSelect": 4
+  }
+}
